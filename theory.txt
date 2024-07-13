@@ -1,0 +1,4 @@
+=====Margin-Padding====
+
+1. Take Extra Space Inside the Box (Padding)->Left/Right/Top/Bottom
+2. Take Extra Space Outside the Box (Margin)-> Left/Right/Top/Bottom
